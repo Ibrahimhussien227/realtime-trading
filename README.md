@@ -4,6 +4,15 @@ A full-stack real-time trading dashboard with **React + Vite frontend** and **No
 
 ---
 
+## Mock Data
+
+For testing purposes, the application uses mock user data. You can log in using the following credentials:
+
+- **Email:** use@example.com  
+- **Password:** password123
+
+  ---
+
 ## Table of Contents
 
 - [Project Structure](#project-structure)
