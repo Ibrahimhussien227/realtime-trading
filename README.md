@@ -1,4 +1,4 @@
-# Realtime Trading Dashboard
+# Real Time Trading Dashboard
 
 A full-stack real-time trading dashboard with **React + Vite frontend** and **Node.js + Express backend**, connected via WebSockets and REST API. Dockerized for easy deployment.
 
